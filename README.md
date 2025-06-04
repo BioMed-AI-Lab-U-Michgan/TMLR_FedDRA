@@ -42,10 +42,10 @@ To install all packages in this codebase along with their dependencies, run
 Please consider citing this paper if you find the code useful
 
 ```bibtex
-@article{cosign,
-  title={CoSIGN: Few-Step Guidance of ConSIstency Model to Solve General INverse Problems},
-  author={Zhao, Jiankun and Song, Bowen and Shen, Liyue},
-  journal={European Conference on Computer Vision},
+@article{shuai2024distributionally,
+  title={Distributionally Robust Alignment for Medical Federated Vision-Language Pre-training Under Data Heterogeneity},
+  author={Shuai, Zitao and Wu, Chenwei and Tang, Zhengxu and Shen, Liyue},
+  journal={arXiv preprint arXiv:2404.03854},
   year={2024}
 }
 ```
